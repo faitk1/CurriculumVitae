@@ -1,0 +1,43 @@
+
+.table-header {
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+}
+.detail-prace {
+  color: rgb(10, 10, 10);
+  background-color: whitesmoke;
+  text-decoration: initial; 
+  font-style: italic;
+  font-size: 14px;
+  }
+  .detail-vzdelani {
+    color: rgb(10, 10, 10);
+    background-color: rgb();
+    text-decoration: initial; 
+    font-style: italic;
+    font-size: 15px;
+    }
+    .detail-konicky {
+      color: rgb(10, 10, 10);
+      background-color: rgb();
+      text-decoration: initial; 
+      font-style: italic;
+      font-size: 16px;
+      }  
+.width-main {
+    width: 100%;
+  }
+  .osobni-informace {
+
+  }
+  .shrnuti {
+    
+  }
+  
+  .prace {
+    
+  }
+  .dovednosti {
+    
+  }
